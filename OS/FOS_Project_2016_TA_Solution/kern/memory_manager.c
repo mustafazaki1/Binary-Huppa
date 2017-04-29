@@ -772,11 +772,15 @@ void allocateMem(struct Env* e, uint32 virtual_address, uint32 size)
 {
 	//TODO: [PROJECT 2017 - [5] User Heap] allocateMem() [Kernel Side]
 	// Write your code here, remove the panic and write your code
-	panic("allocateMem() is not implemented yet...!!");
+	//panic("allocateMem() is not implemented yet...!!");
 
 	//This function should allocate ALL pages of the required range in the PAGE FILE
 	//and allocate NOTHING in the main memory
-
+	for (int i=0;i<size;i++)
+	{
+		 pf_add_empty_env_page(e,virtual_address,0);
+		 virtual_address+=PAGE_SIZE;
+	}
 }
 
 
@@ -786,8 +790,32 @@ void freeMem(struct Env* e, uint32 virtual_address, uint32 size)
 {
 	//TODO: [PROJECT 2017 - [5] User Heap] freeMem() [Kernel Side]
 	// Write your code here, remove the panic and write your code
-	panic("freeMem() is not implemented yet...!!");
+	//panic("freeMem() is not implemented yet...!!");
+	for (int i=0;i<size;i++)
+	{
+		uint32* page_table=NULL;
+		get_page_table(e->env_page_directory,(void*)virtual_address,&page_table);
+		if (page_table!=NULL)
+		{
+			env_page_ws_invalidate(e,virtual_address);
+			unmap_frame(e->env_page_directory,(void*)virtual_address);
+			int NullCounter=0;
+			for (int j=0;j<1024;j++)
+			{
+				if (page_table[j]==0)
+					NullCounter++;
+			}
+			if (NullCounter==1024)
+				{
+					unmap_frame(e->env_page_directory,(void*)page_table);
+					//pf_remove_env_page(e,*page_table);
 
+				}
+		}
+		pf_remove_env_page(e,virtual_address);
+		virtual_address+=PAGE_SIZE;
+	}
+	tlbflush();
 	//This function should:
 	//1. Free ALL pages of the given range from the Page File
 	//2. Free ONLY pages that are resident in the working set from the memory
