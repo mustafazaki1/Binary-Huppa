@@ -42,6 +42,7 @@ void _main(void)
 	char garbage4,garbage5;
 	//Writing (Modified)
 	int i;
+	cprintf("befor 		lol\n");
 	for (i = 0 ; i < PAGE_SIZE*10 ; i+=PAGE_SIZE/2)
 	{
 		arr[i] = -1 ;
@@ -53,7 +54,7 @@ void _main(void)
 		garbage4 = *ptr ;
 		garbage5 = *ptr2 ;
 	}
-
+	cprintf("after lol \n");
 	//===================
 	//cprintf("Checking PAGE FIFO algorithm... \n");
 	{
@@ -67,7 +68,7 @@ void _main(void)
 		if( ROUNDDOWN(myEnv->__uptr_pws[7].virtual_address,PAGE_SIZE) !=  0x800000)  panic("Page FIFO algo failed.. trace it by printing WS before and after page fault");
 		if( ROUNDDOWN(myEnv->__uptr_pws[8].virtual_address,PAGE_SIZE) !=  0x801000)  panic("Page FIFO algo failed.. trace it by printing WS before and after page fault");
 		if( ROUNDDOWN(myEnv->__uptr_pws[9].virtual_address,PAGE_SIZE) !=  0x809000)  panic("Page FIFO algo failed.. trace it by printing WS before and after page fault");
-		if( ROUNDDOWN(myEnv->__uptr_pws[10].virtual_address,PAGE_SIZE) !=  0x803000)  panic("Page FIFO algo failed.. trace it by printing WS before and after page fault");
+		if( ROUNDDOWN(myEnv->__uptr_pws[10].virtual_address,PAGE_SIZE) != 0x803000)  panic("Page FIFO algo failed.. trace it by printing WS before and after page fault");
 
 		if(myEnv->page_last_WS_index != 5) panic("wrong PAGE WS pointer location");
 

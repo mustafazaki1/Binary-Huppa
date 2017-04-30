@@ -30,8 +30,11 @@ uint8 bypassInstrLength = 0;
 /// shifted function addresses can't be represented in relocation records.)
 ///
 
-struct Gatedesc idt[256] = { { 0 } };
-struct Pseudodesc idt_pd = { sizeof(idt) - 1, (uint32) idt };
+struct Gatedesc idt[256] =
+{
+{ 0 } };
+struct Pseudodesc idt_pd =
+{ sizeof(idt) - 1, (uint32) idt };
 extern void (*PAGE_FAULT)();
 extern void (*SYSCALL_HANDLER)();
 extern void (*DBL_FAULT)();
@@ -74,16 +77,16 @@ extern void (*ALL_FAULTS45)();
 extern void (*ALL_FAULTS46)();
 extern void (*ALL_FAULTS47)();
 
-static const char *trapname(int trapno) {
+static const char *trapname(int trapno)
+{
 	static const char * const excnames[] =
-			{ "Divide error", "Debug", "Non-Maskable Interrupt", "Breakpoint",
-					"Overflow", "BOUND Range Exceeded", "Invalid Opcode",
-					"Device Not Available", "Double Fault",
-					"Coprocessor Segment Overrun", "Invalid TSS",
-					"Segment Not Present", "Stack Fault", "General Protection",
-					"Page Fault", "(unknown trap)",
-					"x87 FPU Floating-Point Error", "Alignment Check",
-					"Machine-Check", "SIMD Floating-Point Exception" };
+	{ "Divide error", "Debug", "Non-Maskable Interrupt", "Breakpoint",
+			"Overflow", "BOUND Range Exceeded", "Invalid Opcode",
+			"Device Not Available", "Double Fault",
+			"Coprocessor Segment Overrun", "Invalid TSS", "Segment Not Present",
+			"Stack Fault", "General Protection", "Page Fault", "(unknown trap)",
+			"x87 FPU Floating-Point Error", "Alignment Check", "Machine-Check",
+			"SIMD Floating-Point Exception" };
 
 	if (trapno < sizeof(excnames) / sizeof(excnames[0]))
 		return excnames[trapno];
@@ -92,7 +95,8 @@ static const char *trapname(int trapno) {
 	return "(unknown trap)";
 }
 
-void idt_init(void) {
+void idt_init(void)
+{
 	extern struct Segdesc gdt[];
 
 	// LAB 3: Your code here.
@@ -156,7 +160,8 @@ void idt_init(void) {
 	asm volatile("lidt idt_pd");
 }
 
-void print_trapframe(struct Trapframe *tf) {
+void print_trapframe(struct Trapframe *tf)
+{
 	cprintf("TRAP frame at %p\n", tf);
 	print_regs(&tf->tf_regs);
 	cprintf("  es   0x----%04x\n", tf->tf_es);
@@ -171,7 +176,8 @@ void print_trapframe(struct Trapframe *tf) {
 	cprintf("  ss   0x----%04x\n", tf->tf_ss);
 }
 
-void print_regs(struct PushRegs *regs) {
+void print_regs(struct PushRegs *regs)
+{
 	cprintf("  edi  0x%08x\n", regs->reg_edi);
 	cprintf("  esi  0x%08x\n", regs->reg_esi);
 	cprintf("  ebp  0x%08x\n", regs->reg_ebp);
@@ -182,35 +188,48 @@ void print_regs(struct PushRegs *regs) {
 	cprintf("  eax  0x%08x\n", regs->reg_eax);
 }
 
-static void trap_dispatch(struct Trapframe *tf) {
+static void trap_dispatch(struct Trapframe *tf)
+{
 	// Handle processor exceptions.
 	// LAB 3: Your code here.
 
-	if (tf->tf_trapno == T_PGFLT) {
+	if (tf->tf_trapno == T_PGFLT)
+	{
 		//print_trapframe(tf);
-		if (isPageReplacmentAlgorithmLRU()) {
+		if (isPageReplacmentAlgorithmLRU())
+		{
 			//cprintf("===========Table WS before updating time stamp========\n");
 			//env_table_ws_print(curenv) ;
 			update_WS_time_stamps();
 		}
 		fault_handler(tf);
-	} else if (tf->tf_trapno == T_SYSCALL) {
+	}
+	else if (tf->tf_trapno == T_SYSCALL)
+	{
 		uint32 ret = syscall(tf->tf_regs.reg_eax, tf->tf_regs.reg_edx,
 				tf->tf_regs.reg_ecx, tf->tf_regs.reg_ebx, tf->tf_regs.reg_edi,
 				tf->tf_regs.reg_esi);
 		tf->tf_regs.reg_eax = ret;
-	} else if (tf->tf_trapno == T_DBLFLT) {
+	}
+	else if (tf->tf_trapno == T_DBLFLT)
+	{
 		panic("double fault!!");
-	} else if (tf->tf_trapno == IRQ0_Clock) {
+	}
+	else if (tf->tf_trapno == IRQ0_Clock)
+	{
 		clock_interrupt_handler();
 	}
 
-	else {
+	else
+	{
 		// Unexpected trap: The user process or the kernel has a bug.
 		//print_trapframe(tf);
-		if (tf->tf_cs == GD_KT) {
+		if (tf->tf_cs == GD_KT)
+		{
 			panic("unhandled trap in kernel");
-		} else {
+		}
+		else
+		{
 			//env_destroy(curenv);
 			return;
 		}
@@ -218,28 +237,37 @@ static void trap_dispatch(struct Trapframe *tf) {
 	return;
 }
 
-void trap(struct Trapframe *tf) {
+void trap(struct Trapframe *tf)
+{
 	kclock_stop();
 
 	int userTrap = 0;
-	if ((tf->tf_cs & 3) == 3) {
+	if ((tf->tf_cs & 3) == 3)
+	{
 		assert(curenv);
 		curenv->env_tf = *tf;
 		tf = &(curenv->env_tf);
 		userTrap = 1;
 	}
-	if (tf->tf_trapno == IRQ0_Clock) {
+	if (tf->tf_trapno == IRQ0_Clock)
+	{
 		//2017: Reset the value of CNT0 for the next clock interval
 		kclock_reset();
-	} else if (tf->tf_trapno == T_PGFLT) {
+	}
+	else if (tf->tf_trapno == T_PGFLT)
+	{
 		//2016: Bypass the faulted instruction
-		if (bypassInstrLength != 0) {
-			if (userTrap) {
+		if (bypassInstrLength != 0)
+		{
+			if (userTrap)
+			{
 				curenv->env_tf.tf_eip =
 						(uint32*) ((uint32) (curenv->env_tf.tf_eip)
 								+ bypassInstrLength);
 				env_run(curenv);
-			} else {
+			}
+			else
+			{
 				tf->tf_eip = (uint32*) ((uint32) (tf->tf_eip)
 						+ bypassInstrLength);
 				kclock_resume();
@@ -252,79 +280,97 @@ void trap(struct Trapframe *tf) {
 	env_run(curenv);
 }
 
-void setPageReplacmentAlgorithmLRU() {
+void setPageReplacmentAlgorithmLRU()
+{
 	_PageRepAlgoType = PG_REP_LRU;
 }
-void setPageReplacmentAlgorithmCLOCK() {
+void setPageReplacmentAlgorithmCLOCK()
+{
 	_PageRepAlgoType = PG_REP_CLOCK;
 }
-void setPageReplacmentAlgorithmFIFO() {
+void setPageReplacmentAlgorithmFIFO()
+{
 	_PageRepAlgoType = PG_REP_FIFO;
 }
-void setPageReplacmentAlgorithmModifiedCLOCK() {
+void setPageReplacmentAlgorithmModifiedCLOCK()
+{
 	_PageRepAlgoType = PG_REP_MODIFIEDCLOCK;
 }
 
-uint32 isPageReplacmentAlgorithmLRU() {
+uint32 isPageReplacmentAlgorithmLRU()
+{
 	if (_PageRepAlgoType == PG_REP_LRU)
 		return 1;
 	return 0;
 }
-uint32 isPageReplacmentAlgorithmCLOCK() {
+uint32 isPageReplacmentAlgorithmCLOCK()
+{
 	if (_PageRepAlgoType == PG_REP_CLOCK)
 		return 1;
 	return 0;
 }
-uint32 isPageReplacmentAlgorithmFIFO() {
+uint32 isPageReplacmentAlgorithmFIFO()
+{
 	if (_PageRepAlgoType == PG_REP_FIFO)
 		return 1;
 	return 0;
 }
-uint32 isPageReplacmentAlgorithmModifiedCLOCK() {
+uint32 isPageReplacmentAlgorithmModifiedCLOCK()
+{
 	if (_PageRepAlgoType == PG_REP_MODIFIEDCLOCK)
 		return 1;
 	return 0;
 }
 
-void enableModifiedBuffer(uint32 enableIt) {
+void enableModifiedBuffer(uint32 enableIt)
+{
 	_EnableModifiedBuffer = enableIt;
 }
-uint32 isModifiedBufferEnabled() {
+uint32 isModifiedBufferEnabled()
+{
 	return _EnableModifiedBuffer;
 }
 
-void enableBuffering(uint32 enableIt) {
+void enableBuffering(uint32 enableIt)
+{
 	_EnableBuffering = enableIt;
 }
-uint32 isBufferingEnabled() {
+uint32 isBufferingEnabled()
+{
 	return _EnableBuffering;
 }
 
-void setModifiedBufferLength(uint32 length) {
+void setModifiedBufferLength(uint32 length)
+{
 	_ModifiedBufferLength = length;
 }
-uint32 getModifiedBufferLength() {
+uint32 getModifiedBufferLength()
+{
 	return _ModifiedBufferLength;
 }
 
-void detect_modified_loop() {
+void detect_modified_loop()
+{
 	struct Frame_Info * slowPtr = LIST_FIRST(&modified_frame_list);
 	struct Frame_Info * fastPtr = LIST_FIRST(&modified_frame_list);
 
-	while (slowPtr && fastPtr) {
+	while (slowPtr && fastPtr)
+	{
 		fastPtr = LIST_NEXT(fastPtr); // advance the fast pointer
 		if (fastPtr == slowPtr) // and check if its equal to the slow pointer
-				{
+		{
 			cprintf("loop detected in modiflist\n");
 			break;
 		}
 
-		if (fastPtr == NULL) {
+		if (fastPtr == NULL)
+		{
 			break; // since fastPtr is NULL we reached the tail
 		}
 
 		fastPtr = LIST_NEXT(fastPtr); //advance and check again
-		if (fastPtr == slowPtr) {
+		if (fastPtr == slowPtr)
+		{
 			cprintf("loop detected in modiflist\n");
 			break;
 		}
@@ -334,9 +380,11 @@ void detect_modified_loop() {
 	cprintf("finished modi loop detection\n");
 }
 
-void fault_handler(struct Trapframe *tf) {
+void fault_handler(struct Trapframe *tf)
+{
 	int userTrap = 0;
-	if ((tf->tf_cs & 3) == 3) {
+	if ((tf->tf_cs & 3) == 3)
+	{
 		userTrap = 1;
 	}
 	//print_trapframe(tf);
@@ -346,13 +394,15 @@ void fault_handler(struct Trapframe *tf) {
 	fault_va = rcr2();
 
 	//2017: Check stack overflow for Kernel
-	if (!userTrap) {
+	if (!userTrap)
+	{
 		if (fault_va < KERNEL_STACK_TOP - KERNEL_STACK_SIZE
 				&& fault_va >= USER_LIMIT)
 			panic("Kernel: stack overflow exception!");
 	}
 	//2017: Check stack underflow for User
-	else {
+	else
+	{
 		if (fault_va >= USTACKTOP)
 			panic("User: stack underflow exception!");
 	}
@@ -363,13 +413,16 @@ void fault_handler(struct Trapframe *tf) {
 	//check the faulted address, is it a table or not ?
 	//If the directory entry of the faulted address is NOT PRESENT then
 	if ((curenv->env_page_directory[PDX(fault_va)] & PERM_PRESENT)
-			!= PERM_PRESENT) {
+			!= PERM_PRESENT)
+	{
 		// we have a table fault =============================================================
 		//		cprintf("[%s] user TABLE fault va %08x\n", curenv->prog_name, fault_va);
 		faulted_env->tableFaultsCounter++;
 
 		table_fault_handler(faulted_env, fault_va);
-	} else {
+	}
+	else
+	{
 		// we have normal page fault =============================================================
 		faulted_env->pageFaultsCounter++;
 
@@ -377,9 +430,12 @@ void fault_handler(struct Trapframe *tf) {
 		//		cprintf("\nPage working set BEFORE fault handler...\n");
 		//		env_page_ws_print(curenv);
 
-		if (isBufferingEnabled()) {
+		if (isBufferingEnabled())
+		{
 			__page_fault_handler_with_buffering(faulted_env, fault_va);
-		} else {
+		}
+		else
+		{
 			page_fault_handler(faulted_env, fault_va);
 		}
 		//		cprintf("\nPage working set AFTER fault handler...\n");
@@ -395,20 +451,25 @@ void fault_handler(struct Trapframe *tf) {
 }
 
 //Handle the table fault
-void table_fault_handler(struct Env * curenv, uint32 fault_va) {
+void table_fault_handler(struct Env * curenv, uint32 fault_va)
+{
 	//panic("table_fault_handler() is not implemented yet...!!");
 	//Check if it's a stack page
 	uint32* ptr_table;
-	if (USE_KHEAP) {
+	if (USE_KHEAP)
+	{
 		ptr_table = create_page_table(curenv->env_page_directory,
 				(uint32) fault_va);
-	} else {
+	}
+	else
+	{
 		__static_cpt(curenv->env_page_directory, (uint32) fault_va, &ptr_table);
 	}
 
 }
 
-void __page_fault_handler_with_buffering(struct Env * curenv, uint32 fault_va) {
+void __page_fault_handler_with_buffering(struct Env * curenv, uint32 fault_va)
+{
 	//[PROJECT 2015] PAGE FAULT HANDLER
 	// your code is here, remove the panic and write your code
 	panic("this function is not required...!!");
@@ -422,14 +483,12 @@ void page_fault_handler(struct Env * curenv, uint32 fault_va)
 {
 	//TODO: [PROJECT 2017 - [3] PAGE FAULT HANDLER]
 	// Write your code here, remove the panic and write your code
-
-	uint32 CurrentIndex = curenv->page_last_WS_index;
+	uint32 CurrentIndex = 0;
 	uint32 WorkingSetCurrentSize = env_page_ws_get_size(curenv);
-
 	//check the size of the working set
 	if (WorkingSetCurrentSize >= curenv->page_WS_max_size)
 	{
-		uint32 VictimVA = curenv->ptr_pageWorkingSet[curenv->page_last_WS_index].virtual_address;
+		uint32 VictimVA =curenv->ptr_pageWorkingSet[CurrentIndex].virtual_address;
 		uint32 *page_table;
 		uint32* EnvPageDirectory = curenv->env_page_directory;
 		struct Frame_Info *frame_info = get_frame_info(EnvPageDirectory,(void*) VictimVA, &page_table);
@@ -444,12 +503,10 @@ void page_fault_handler(struct Env * curenv, uint32 fault_va)
 			if (ret == E_PAGE_NOT_EXIST_IN_PF)
 				panic("Error: updated page is not found in page file\n");
 		}
-
 		//then remove the first entry in the working set
 		unmap_frame(EnvPageDirectory, (void*) VictimVA);
 		env_page_ws_clear_entry(curenv, CurrentIndex);
 	}
-
 	//allocate a frame for the page and map it to the va
 	struct Frame_Info *frame_info;
 	uint32 new_page = allocate_frame(&frame_info);
@@ -466,26 +523,77 @@ void page_fault_handler(struct Env * curenv, uint32 fault_va)
 			if (ret == E_NO_PAGE_FILE_SPACE)
 			{
 				unmap_frame(EnvPageDirectory, (void*) fault_va);
-
 				panic("Error: No space found in the page file\n");
 			}
 			else
 			{
 				//add the address to the working spa1ce
+				for (int i = 0; i < curenv->page_WS_max_size; i++)
+				{
+					if (curenv->ptr_pageWorkingSet[i].empty == 0)
+						continue;
+					for (int j = i + 1; j < curenv->page_WS_max_size; j++)
+					{
+						if (curenv->ptr_pageWorkingSet[j].empty == 1)
+							continue;
+
+						curenv->ptr_pageWorkingSet[i].empty = 0;
+						curenv->ptr_pageWorkingSet[i].time_stamp =curenv->ptr_pageWorkingSet[j].time_stamp;
+						curenv->ptr_pageWorkingSet[i].virtual_address =curenv->ptr_pageWorkingSet[j].virtual_address;
+						curenv->ptr_pageWorkingSet[j].empty = 1;
+						curenv->ptr_pageWorkingSet[j].time_stamp = 0;
+						curenv->ptr_pageWorkingSet[j].virtual_address = 0;
+						break;
+					}
+				}
+				for (int i = 0; i < curenv->page_WS_max_size; i++)
+				{
+					if (curenv->ptr_pageWorkingSet[i].empty == 1)
+					{
+						CurrentIndex = i;
+						break;
+					}
+				}
 				env_page_ws_set_entry(curenv, CurrentIndex, fault_va);
-				curenv->page_last_WS_index++;
+				curenv->page_last_WS_index = CurrentIndex + 1;
 				curenv->page_last_WS_index %= curenv->page_WS_max_size;
 			}
 		}
 		else
 		{
+			unmap_frame(EnvPageDirectory, (void*) fault_va);
 			panic("Error: This is not a correct page\n");
 		}
 	}
 	else
 	{
+		for (int i = 0; i < curenv->page_WS_max_size; i++)
+		{
+			if (curenv->ptr_pageWorkingSet[i].empty == 0)
+				continue;
+			for (int j = i + 1; j < curenv->page_WS_max_size; j++)
+			{
+				if (curenv->ptr_pageWorkingSet[j].empty == 1)
+					continue;
+				curenv->ptr_pageWorkingSet[i].empty = 0;
+				curenv->ptr_pageWorkingSet[i].time_stamp =curenv->ptr_pageWorkingSet[j].time_stamp;
+				curenv->ptr_pageWorkingSet[i].virtual_address =curenv->ptr_pageWorkingSet[j].virtual_address;
+				curenv->ptr_pageWorkingSet[j].empty = 1;
+				curenv->ptr_pageWorkingSet[j].time_stamp = 0;
+				curenv->ptr_pageWorkingSet[j].virtual_address = 0;
+				break;
+			}
+		}
+		for (int i = 0; i < curenv->page_WS_max_size; i++)
+		{
+			if (curenv->ptr_pageWorkingSet[i].empty == 1)
+			{
+				CurrentIndex = i;
+				break;
+			}
+		}
 		env_page_ws_set_entry(curenv, CurrentIndex, fault_va);
-		curenv->page_last_WS_index++;
+		curenv->page_last_WS_index = CurrentIndex + 1;
 		curenv->page_last_WS_index %= curenv->page_WS_max_size;
 	}
 	//refer to the project presentation and documentation for details

@@ -807,7 +807,9 @@ void freeMem(struct Env* e, uint32 virtual_address, uint32 size)
 			}
 			if (NullCounter==1024)
 				{
-					unmap_frame(e->env_page_directory,(void*)page_table);
+					//kfree(page_table);
+					unmap_frame(e->env_page_directory,page_table);
+					e->env_page_directory[PDX(virtual_address)]=0;
 					//pf_remove_env_page(e,*page_table);
 
 				}
