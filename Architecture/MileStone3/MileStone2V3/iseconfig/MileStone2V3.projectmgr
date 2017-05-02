@@ -10,15 +10,30 @@
          <ClosedNode>/ALU - data2ehavioral E:|FCIS Study|Year 3|Semester 2|Archi|Labs|Hands On|MileStone2V3|ALU.vhd</ClosedNode>
          <ClosedNode>/ALU - databehavioral E:|FCIS Study|Year 3|Semester 2|Archi|Labs|Hands On|MileStone2V3|ALU.vhd</ClosedNode>
          <ClosedNode>/MainModule - Behavioral E:|FCIS Study|Year 3|Semester 2|Archi|Labs|Hands On|MileStone2V3|MainModule.vhd/RF - RegisterFile - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|Year3|Binary-Huppa|Architecture|MileStone3|MileStone2V3|MainModule.vhd</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|Year3|Binary-Huppa|Architecture|MileStone3|MileStone2V3|MainModule.vhd/ALUInstance - ALU - behavioral/ALU10 - ALU1Bit - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|Year3|Binary-Huppa|Architecture|MileStone3|MileStone2V3|MainModule.vhd/ALUInstance - ALU - behavioral/ALU11 - ALU1Bit - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|Year3|Binary-Huppa|Architecture|MileStone3|MileStone2V3|MainModule.vhd/ALUInstance - ALU - behavioral/ALU12 - ALU1Bit - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|Year3|Binary-Huppa|Architecture|MileStone3|MileStone2V3|MainModule.vhd/ALUInstance - ALU - behavioral/ALU13 - ALU1Bit - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|Year3|Binary-Huppa|Architecture|MileStone3|MileStone2V3|MainModule.vhd/ALUInstance - ALU - behavioral/ALU14 - ALU1Bit - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|Year3|Binary-Huppa|Architecture|MileStone3|MileStone2V3|MainModule.vhd/ALUInstance - ALU - behavioral/ALU15 - ALU1Bit - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|Year3|Binary-Huppa|Architecture|MileStone3|MileStone2V3|MainModule.vhd/ALUInstance - ALU - behavioral/ALU3 - ALU1Bit - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|Year3|Binary-Huppa|Architecture|MileStone3|MileStone2V3|MainModule.vhd/ALUInstance - ALU - behavioral/ALU4 - ALU1Bit - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|Year3|Binary-Huppa|Architecture|MileStone3|MileStone2V3|MainModule.vhd/ALUInstance - ALU - behavioral/ALU5 - ALU1Bit - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|Year3|Binary-Huppa|Architecture|MileStone3|MileStone2V3|MainModule.vhd/ALUInstance - ALU - behavioral/ALU6 - ALU1Bit - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|Year3|Binary-Huppa|Architecture|MileStone3|MileStone2V3|MainModule.vhd/ALUInstance - ALU - behavioral/ALU7 - ALU1Bit - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|Year3|Binary-Huppa|Architecture|MileStone3|MileStone2V3|MainModule.vhd/ALUInstance - ALU - behavioral/ALU8 - ALU1Bit - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|Year3|Binary-Huppa|Architecture|MileStone3|MileStone2V3|MainModule.vhd/ALUInstance - ALU - behavioral/ALU9 - ALU1Bit - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral E:|Year3|Binary-Huppa|Architecture|MileStone3|MileStone2V3|MainModule.vhd/RF - RegisterFile - Behavioral</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>MainModule - Behavioral (E:/FCIS Study/Year 3/Semester 2/Archi/Labs/Hands On/MileStone2V3/MainModule.vhd)</SelectedItem>
+         <SelectedItem>Mux2x11But - Behavioral (E:/Year3/Binary-Huppa/Architecture/MileStone3/MileStone2V3/Mux2x11Bit.vhd)</SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000019c000000020000000000000000000000000200000064ffffffff0000008100000003000000020000019c0000000100000003000000000000000100000003</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000162000000020000000000000000000000000200000064ffffffff000000810000000300000002000001620000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
-      <CurrentItem>MainModule - Behavioral (E:/FCIS Study/Year 3/Semester 2/Archi/Labs/Hands On/MileStone2V3/MainModule.vhd)</CurrentItem>
+      <CurrentItem>Mux2x11But - Behavioral (E:/Year3/Binary-Huppa/Architecture/MileStone3/MileStone2V3/Mux2x11Bit.vhd)</CurrentItem>
    </ItemView>
    <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
       <ClosedNodes>
@@ -26,39 +41,39 @@
          <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem></SelectedItem>
+         <SelectedItem/>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem></CurrentItem>
+      <CurrentItem/>
    </ItemView>
    <ItemView guiview="File" >
       <ClosedNodes>
          <ClosedNodesVersion>1</ClosedNodesVersion>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>RegisterFile.vhd</SelectedItem>
+         <SelectedItem>Mux2x11Bit.vhd</SelectedItem>
       </SelectedItems>
-      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="vertical" >12</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000002d2000000040101000100000000000000000000000064ffffffff0000008100000000000000040000008500000001000000000000002100000001000000000000005d0000000100000000000001cf0000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000027d000000040101000100000000000000000000000064ffffffff0000008100000000000000040000008500000001000000000000002100000001000000000000005d00000001000000000000017a0000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem>RegisterFile.vhd</CurrentItem>
+      <CurrentItem>Mux2x11Bit.vhd</CurrentItem>
    </ItemView>
    <ItemView guiview="Library" >
       <ClosedNodes>
          <ClosedNodesVersion>1</ClosedNodesVersion>
       </ClosedNodes>
       <SelectedItems/>
-      <ScrollbarPosition orientation="vertical" >15</ScrollbarPosition>
+      <ScrollbarPosition orientation="vertical" >26</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000000f8000000010001000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
       <CurrentItem>TranslationCircuitPackage.vhd</CurrentItem>
    </ItemView>
-   <SourceProcessView>000000ff00000000000000020000011b0000011b01000000050100000002</SourceProcessView>
+   <SourceProcessView>000000ff0000000000000002000001340000008a01000000050100000002</SourceProcessView>
    <CurrentView>Implementation</CurrentView>
    <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
       <ClosedNodes>
@@ -66,16 +81,17 @@
          <ClosedNode>Configure Target Device</ClosedNode>
          <ClosedNode>Design Utilities</ClosedNode>
          <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>Synthesize - XST</ClosedNode>
          <ClosedNode>User Constraints</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>Synthesize - XST</SelectedItem>
+         <SelectedItem></SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem>Synthesize - XST</CurrentItem>
+      <CurrentItem></CurrentItem>
    </ItemView>
    <ItemView engineview="SynthesisOnly" sourcetype="DESUT_BMM" guiview="Process" >
       <ClosedNodes>
@@ -84,9 +100,9 @@
       <SelectedItems/>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" ></ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" />
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem></CurrentItem>
+      <CurrentItem/>
    </ItemView>
    <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
       <ClosedNodes>
@@ -95,16 +111,17 @@
          <ClosedNode>/AdderPackage E:|FCIS Study|Year 3|Semester 2|Archi|Labs|Hands On|MileStone2V3|AdderPackage.vhd</ClosedNode>
          <ClosedNode>/Mux4x1Package E:|FCIS Study|Year 3|Semester 2|Archi|Labs|Hands On|MileStone2V3|Mux4x1Package.vhd</ClosedNode>
          <ClosedNode>/RobotTest - behavior E:|FCIS Study|Year 3|Semester 2|Archi|Labs|Hands On|MileStone2V3|MainModuleTest.vhd/uut - MainModule - Behavioral</ClosedNode>
+         <ClosedNode>/RobotTest - behavior E:|Year3|Binary-Huppa|Architecture|MileStone3|MileStone2V3|MainModuleTest.vhd</ClosedNode>
          <ClosedNode>/TranslationCircuiPackage E:|FCIS Study|Year 3|Semester 2|Archi|Labs|Hands On|MileStone2V3|TranslationCircuitPackage.vhd</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>RobotTest - behavior (E:/FCIS Study/Year 3/Semester 2/Archi/Labs/Hands On/MileStone2V3/MainModuleTest.vhd)</SelectedItem>
+         <SelectedItem>Mux2x11But - Behavioral (E:/Year3/Binary-Huppa/Architecture/MileStone3/MileStone2V3/Mux2x11Bit.vhd)</SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000161000000020000000000000000000000000200000064ffffffff000000810000000300000002000001610000000100000003000000000000000100000003</ViewHeaderState>
-      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem>RobotTest - behavior (E:/FCIS Study/Year 3/Semester 2/Archi/Labs/Hands On/MileStone2V3/MainModuleTest.vhd)</CurrentItem>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000162000000020000000000000000000000000200000064ffffffff000000810000000300000002000001620000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>Mux2x11But - Behavioral (E:/Year3/Binary-Huppa/Architecture/MileStone3/MileStone2V3/Mux2x11Bit.vhd)</CurrentItem>
    </ItemView>
    <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
       <ClosedNodes>
@@ -112,13 +129,13 @@
          <ClosedNode>Design Utilities</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem/>
+         <SelectedItem>Design Utilities</SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000142000000010000000100000000000000000000000064ffffffff000000810000000000000001000001420000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem/>
+      <CurrentItem>Design Utilities</CurrentItem>
    </ItemView>
    <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
       <ClosedNodes>
@@ -129,7 +146,7 @@
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000c9000000010000000100000000000000000000000064ffffffff000000810000000000000001000000c90000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
       <CurrentItem></CurrentItem>
    </ItemView>
@@ -140,8 +157,8 @@
       <SelectedItems/>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" ></ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" />
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem></CurrentItem>
+      <CurrentItem/>
    </ItemView>
 </Project>

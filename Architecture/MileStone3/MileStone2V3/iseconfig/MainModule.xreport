@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2017-05-01T01:41:16</DateModified>
+  <DateModified>2017-05-01T20:29:04</DateModified>
   <ModuleName>MainModule</ModuleName>
   <SummaryTimeStamp>2017-05-01T00:34:46</SummaryTimeStamp>
-  <SavedFilePath>E:/FCIS Study/Year 3/Semester 2/Archi/Labs/Hands On/MileStone2V3/iseconfig/MainModule.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>E:/FCIS Study/Year 3/Semester 2/Archi/Labs/Hands On/MileStone2V3\</ImplementationReportsDirectory>
+  <SavedFilePath>E:/Year3/Binary-Huppa/Architecture/MileStone3/MileStone2V3/iseconfig/MainModule.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>E:/Year3/Binary-Huppa/Architecture/MileStone3/MileStone2V3\</ImplementationReportsDirectory>
   <DateInitialized>2017-04-19T17:23:48</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

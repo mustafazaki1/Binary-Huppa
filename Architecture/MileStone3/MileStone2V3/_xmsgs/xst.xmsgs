@@ -5,554 +5,548 @@
      behavior or data corruption.  It is strongly advised that
      users do not edit the contents of this file. -->
 <messages>
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU1Bit.vhd" Line 59: Actual for formal port <arg fmt="%s" index="1">input1</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU1Bit.vhd" Line 59: Actual for formal port <arg fmt="%s" index="1">input1</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU1Bit.vhd" Line 60: Actual for formal port <arg fmt="%s" index="1">input1</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU1Bit.vhd" Line 60: Actual for formal port <arg fmt="%s" index="1">input1</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 85: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 85: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 86: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 86: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 87: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 87: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 88: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 88: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 89: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 89: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 90: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 90: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 91: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 91: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 92: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 92: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 93: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 93: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 94: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 94: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 95: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 95: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 96: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 96: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 97: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 97: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 98: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 98: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 99: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 99: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 100: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 100: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 101: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 101: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 102: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 102: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 103: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 103: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 104: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 104: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 105: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 105: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 106: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 106: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 107: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 107: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 108: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 108: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 109: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 109: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 110: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 110: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 111: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 111: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 112: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 112: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 113: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 113: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 114: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 114: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 115: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 115: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\RegisterFile.vhd" Line 116: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\RegisterFile.vhd" Line 116: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\MainModule.vhd" Line 90: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\MainModule.vhd" Line 90: Actual for formal port <arg fmt="%s" index="1">lod</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\MainModule.vhd" Line 91: Actual for formal port <arg fmt="%s" index="1">loadit</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\MainModule.vhd" Line 91: Actual for formal port <arg fmt="%s" index="1">loadit</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\MainModule.vhd" Line 96: Actual for formal port <arg fmt="%s" index="1">aluop</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\MainModule.vhd" Line 96: Actual for formal port <arg fmt="%s" index="1">aluop</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\MainModule.vhd" Line 99: Actual for formal port <arg fmt="%s" index="1">loadit</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\MainModule.vhd" Line 99: Actual for formal port <arg fmt="%s" index="1">loadit</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\MainModule.vhd" Line 103: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\MainModule.vhd" Line 103: Actual for formal port <arg fmt="%s" index="1">b</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="946" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\MainModule.vhd" Line 104: Actual for formal port <arg fmt="%s" index="1">selector</arg> is neither a static name nor a globally static expression
+<msg type="warning" file="HDLCompiler" num="946" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\MainModule.vhd" Line 104: Actual for formal port <arg fmt="%s" index="1">selector</arg> is neither a static name nor a globally static expression
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="92" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\INSTRMEMORY.vhd" Line 32: <arg fmt="%s" index="1">loadit</arg> should be on the sensitivity list of the process
+<msg type="warning" file="HDLCompiler" num="92" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\INSTRMEMORY.vhd" Line 32: <arg fmt="%s" index="1">loadit</arg> should be on the sensitivity list of the process
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="634" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\INSTRMEMORY.vhd" Line 27: Net &lt;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY[33][31]</arg>&gt; does not have a driver.
+<msg type="warning" file="HDLCompiler" num="634" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\INSTRMEMORY.vhd" Line 27: Net &lt;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY[33][31]</arg>&gt; does not have a driver.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="89" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\Mux2x11BitPackage.vhd" Line 14: &lt;<arg fmt="%s" index="1">mux2x11bit</arg>&gt; remains a black-box since it has no binding entity.
+<msg type="warning" file="HDLCompiler" num="89" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\Mux2x11BitPackage.vhd" Line 14: &lt;<arg fmt="%s" index="1">mux2x11bit</arg>&gt; remains a black-box since it has no binding entity.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="92" delta="old" >"E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Milestone3\HelperModules\Datamem.V4.vhd" Line 29: <arg fmt="%s" index="1">loadit</arg> should be on the sensitivity list of the process
+<msg type="warning" file="HDLCompiler" num="89" delta="new" >"E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\DATAMEMORYPackage.vhd" Line 15: &lt;<arg fmt="%s" index="1">datamemory</arg>&gt; remains a black-box since it has no binding entity.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\MainModule.vhd</arg>&quot; line <arg fmt="%s" index="2">98</arg>: Output port &lt;<arg fmt="%s" index="3">cflag</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALUInstance</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\MainModule.vhd</arg>&quot; line <arg fmt="%s" index="2">98</arg>: Output port &lt;<arg fmt="%s" index="3">cflag</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALUInstance</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\MainModule.vhd</arg>&quot; line <arg fmt="%s" index="2">98</arg>: Output port &lt;<arg fmt="%s" index="3">oflag</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALUInstance</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\MainModule.vhd</arg>&quot; line <arg fmt="%s" index="2">98</arg>: Output port &lt;<arg fmt="%s" index="3">oflag</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALUInstance</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\MainModule.vhd</arg>&quot; line <arg fmt="%s" index="2">101</arg>: Output port &lt;<arg fmt="%s" index="3">CarryOut</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">PCAdder</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\MainModule.vhd</arg>&quot; line <arg fmt="%s" index="2">101</arg>: Output port &lt;<arg fmt="%s" index="3">CarryOut</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">PCAdder</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\MainModule.vhd</arg>&quot; line <arg fmt="%s" index="2">103</arg>: Output port &lt;<arg fmt="%s" index="3">CarryOut</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">PCChoice</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\MainModule.vhd</arg>&quot; line <arg fmt="%s" index="2">103</arg>: Output port &lt;<arg fmt="%s" index="3">CarryOut</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">PCChoice</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">ADDRESS&lt;1:0&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">ADDRESS&lt;1:0&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;33&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;33&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;34&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;34&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;35&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;35&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;36&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;36&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;37&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;37&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;38&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;38&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;39&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;39&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;40&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;40&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;41&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;41&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;42&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;42&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;43&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;43&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;44&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;44&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;45&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;45&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;46&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;46&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;47&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;47&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;48&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;48&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;49&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;49&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;50&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;50&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;51&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;51&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;52&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;52&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;53&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;53&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;54&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;54&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;55&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;55&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;56&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;56&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;57&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;57&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;58&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;58&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;59&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;59&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;60&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;60&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;61&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;61&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;62&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;62&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="2935" delta="old" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;63&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
+<msg type="warning" file="Xst" num="2935" delta="new" >Signal &apos;<arg fmt="%s" index="1">ROM_PROCESS.MEMORY&lt;63&gt;</arg>&apos;, unconnected in block &apos;<arg fmt="%s" index="2">INSTRMEMORY</arg>&apos;, is tied to its initial value (<arg fmt="%s" index="3">00000000000000000000000000000000</arg>).
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">ROM_PROCESS.MEMORY&lt;0&gt;&lt;5&gt;</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="737" delta="new" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">ROM_PROCESS.MEMORY&lt;0&gt;&lt;5&gt;</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
 </msg>
 
-<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">Enable</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">Enable</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
 </msg>
 
-<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">Func&lt;5:4&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+<msg type="warning" file="Xst" num="647" delta="new" >Input &lt;<arg fmt="%s" index="1">Func&lt;5:4&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">54</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU1</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">54</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU1</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">54</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU1</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">54</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU1</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">55</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU2</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">55</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU2</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">55</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU2</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">55</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU2</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU3</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU3</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU3</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">56</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU3</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">57</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU4</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">57</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU4</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">57</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU4</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">57</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU4</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">58</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU5</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">58</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU5</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">58</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU5</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">58</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU5</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">59</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU6</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">59</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU6</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">59</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU6</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">59</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU6</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">60</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU7</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">60</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU7</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">60</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU7</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">60</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU7</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">61</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU8</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">61</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU8</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">61</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU8</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">61</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU8</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">62</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU9</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">62</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU9</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">62</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU9</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">62</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU9</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">63</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU10</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">63</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU10</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">63</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU10</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">63</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU10</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">64</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU11</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">64</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU11</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">64</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU11</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">64</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU11</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">65</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU12</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">65</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU12</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">65</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU12</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">65</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU12</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">66</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU13</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">66</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU13</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">66</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU13</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">66</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU13</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">67</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU14</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">67</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU14</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">67</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU14</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">67</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU14</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">68</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU15</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">68</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU15</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">68</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU15</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">68</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU15</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">69</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU16</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">69</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU16</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">69</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU16</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">69</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU16</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">70</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU17</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">70</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU17</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">70</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU17</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">70</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU17</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">71</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU18</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">71</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU18</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">71</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU18</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">71</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU18</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">72</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU19</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">72</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU19</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">72</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU19</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">72</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU19</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">73</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU20</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">73</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU20</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">73</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU20</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">73</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU20</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU21</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU21</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU21</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">74</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU21</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">75</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU22</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">75</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU22</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">75</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU22</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">75</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU22</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">76</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU23</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">76</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU23</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">76</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU23</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">76</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU23</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">77</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU24</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">77</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU24</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">77</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU24</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">77</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU24</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">78</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU25</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">78</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU25</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">78</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU25</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">78</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU25</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">79</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU26</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">79</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU26</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">79</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU26</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">79</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU26</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">80</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU27</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">80</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU27</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">80</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU27</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">80</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU27</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">81</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU28</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">81</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU28</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">81</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU28</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">81</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU28</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">82</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU29</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">82</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU29</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">82</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU29</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">82</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU29</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">83</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU30</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">83</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU30</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">83</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU30</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">83</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU30</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">84</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU31</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">84</arg>: Output port &lt;<arg fmt="%s" index="3">OverFlow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU31</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">E:\FCIS Study\Year 3\Semester 2\Archi\Labs\Hands On\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">84</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU31</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">E:\Year3\Binary-Huppa\Architecture\MileStone3\MileStone2V3\ALU.vhd</arg>&quot; line <arg fmt="%s" index="2">84</arg>: Output port &lt;<arg fmt="%s" index="3">Set</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">ALU31</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">ADDRESS&lt;1:0&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+<msg type="warning" file="Xst" num="1710" delta="new" >FF/Latch &lt;<arg fmt="%s" index="1">DATA_30</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">INSTRMEMORY</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1126_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="info" file="Xst" num="2261" delta="new" >The FF/Latch &lt;<arg fmt="%s" index="1">DATA_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">INSTRMEMORY</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">4 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;DATA_7&gt; &lt;DATA_8&gt; &lt;DATA_9&gt; &lt;DATA_10&gt; </arg>
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">MEM_READ_MEM_READ_DLATCH_1127_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
-</msg>
+<msg type="warning" file="Xst" num="2042" delta="new" >Unit <arg fmt="%s" index="1">MainModule</arg>: <arg fmt="%d" index="2">32</arg> internal tristates are replaced by logic (pull-up <arg fmt="%s" index="3">yes</arg>): </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1128_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
-</msg>
+<msg type="warning" file="Xst" num="2042" delta="new" >Unit <arg fmt="%s" index="1">Decoder</arg>: <arg fmt="%d" index="2">32</arg> internal tristates are replaced by logic (pull-up <arg fmt="%s" index="3">yes</arg>): </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1130_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;31&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1132_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;30&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1134_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;29&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1136_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;28&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1138_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;27&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1140_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;26&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1142_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;25&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1144_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;24&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1146_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;23&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1148_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;22&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1150_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;21&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1152_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;20&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1154_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;19&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1156_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;18&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1158_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;17&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1160_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;16&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1162_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;15&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1164_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;14&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1166_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;13&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1168_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;12&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1170_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;11&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1172_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;10&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1174_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;9&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1176_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;8&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1178_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;7&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1180_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;6&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1182_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;5&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1184_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;4&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1186_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;3&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="737" delta="old" >Found <arg fmt="%d" index="1">1</arg>-bit latch for signal &lt;<arg fmt="%s" index="2">OUTS[31]_MEM_READ_DLATCH_1188_q</arg>&gt;. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;2&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">DATA_30</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">0</arg> in block &lt;<arg fmt="%s" index="3">INSTRMEMORY</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;1&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
 
-<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">DATA_6</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">INSTRMEMORY</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">4 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;DATA_7&gt; &lt;DATA_8&gt; &lt;DATA_9&gt; &lt;DATA_10&gt; </arg>
+<msg type="warning" file="Xst" num="2036" delta="new" >Inserting OBUF on port &lt;<arg fmt="%s" index="1">DataMemOut&lt;0&gt;</arg>&gt; driven by black box &lt;<arg fmt="%s" index="2">DATAMEMORY</arg>&gt;. Possible simulation mismatch.
 </msg>
-
-<msg type="warning" file="Xst" num="2042" delta="new" >Unit <arg fmt="%s" index="1">MainModule</arg>: <arg fmt="%d" index="2">64</arg> internal tristates are replaced by logic (pull-up <arg fmt="%s" index="3">yes</arg>): </msg>
-
-<msg type="warning" file="Xst" num="2042" delta="old" >Unit <arg fmt="%s" index="1">Decoder</arg>: <arg fmt="%d" index="2">32</arg> internal tristates are replaced by logic (pull-up <arg fmt="%s" index="3">yes</arg>): </msg>
 
-<msg type="info" file="Xst" num="2169" delta="old" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+<msg type="info" file="Xst" num="2169" delta="new" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
 </msg>
 
 </messages>

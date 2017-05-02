@@ -8,7 +8,7 @@
 <!-- Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.    -->
 
 <messages>
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/FCIS Study/Year 3/Semester 2/Archi/Labs/Hands On/MileStone2V3/MainModule.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;E:/Year3/Binary-Huppa/Architecture/MileStone3/MileStone2V3/ALU1Bit.vhd&quot; into library work</arg>
 </msg>
 
 </messages>
