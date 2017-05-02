@@ -3226,7 +3226,7 @@
 			    max_height 	28350
 			    max_width  	21600
 			    origin_x   	0
-			    origin_y   	0
+			    origin_y   	6
 			    items      	(list diagram_item_list
 				(object Swimlane "" @118
 				    line_color 	3342489
@@ -4756,7 +4756,7 @@
 				supplier   	@172
 				vertices   	(list Points
 				    (2759, 348)
-				    (3014, 338))
+				    (3012, 338))
 				line_style 	0)))
 		    (object ClassView "Class" "Use Case View::Guest" @177
 			ShowCompartmentStereotypes 	TRUE
@@ -4828,7 +4828,7 @@
 				supplier   	@173
 				vertices   	(list Points
 				    (1962, 368)
-				    (2225, 368))
+				    (2227, 368))
 				line_style 	0)))
 		    (object UseCaseView "Use Case View::Reserve available rooms" @181
 			location   	(880, 160)
@@ -4895,7 +4895,7 @@
 				supplier   	@181
 				vertices   	(list Points
 				    (1259, 266)
-				    (1199, 247))
+				    (1019, 198))
 				line_style 	0)))
 		    (object UseCaseView "Use Case View::Record guest information" @185
 			location   	(896, 432)
@@ -5021,7 +5021,7 @@
 				supplier   	@187
 				vertices   	(list Points
 				    (516, 224)
-				    (294, 264))
+				    (294, 266))
 				line_style 	0)))
 		    (object AssociationViewNew "$UNNAMED$26" @191
 			location   	(518, 353)
@@ -5049,7 +5049,7 @@
 				supplier   	@185
 				vertices   	(list Points
 				    (518, 353)
-				    (744, 398))
+				    (743, 399))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$28" @193
 				Parent_View 	@191
@@ -5089,7 +5089,7 @@
 				supplier   	@186
 				vertices   	(list Points
 				    (454, 534)
-				    (617, 687))
+				    (614, 685))
 				line_style 	0)
 			    (object RoleView "$UNNAMED$31" @196
 				Parent_View 	@194
@@ -5101,7 +5101,7 @@
 				supplier   	@187
 				vertices   	(list Points
 				    (454, 534)
-				    (294, 384))
+				    (294, 383))
 				line_style 	0)))))
 	    (object UseCaseDiagram "use case"
 		quid       	"58D1BA2201AF"
